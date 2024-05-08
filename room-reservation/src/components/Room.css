@@ -1,0 +1,12 @@
+.room__container {
+  flex: 0 0 calc(33.33% - 20px);
+  max-width: calc(33.33% - 20px);
+  text-align: center;
+  background-color: grey;
+  height: fit-content;
+}
+
+.room__container h1 h2 {
+  color: black;
+  font: bold;
+}
