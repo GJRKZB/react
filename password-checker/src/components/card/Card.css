@@ -1,0 +1,17 @@
+.card--container {
+  border: solid black 1px;
+  padding: 20%;
+  text-align: center;
+  width: 100%;
+}
+
+.card--title {
+  font: bold;
+  font-size: 30px;
+}
+
+.inputfield--password {
+  width: 100%;
+  padding: 5%;
+  box-sizing: border-box;
+}
